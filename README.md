@@ -37,7 +37,7 @@ to see where you are.)
     line by typing Ctrl+D on an empty line.
 
     Note that the terminal intermediates a bit between you and your program: your program
-    will not repeat the characters as you type them, but only when you press *<Enter>*. This
+    will not repeat the characters as you type them, but only when you press *\<Enter\>*. This
     is because the terminal delivers the characters to a C program only after you press
     return, and is expected behavior.
 
@@ -81,7 +81,7 @@ to see where you are.)
 
     Note that an empty input (an immediate Ctrl+D) should produce three 0s.
 
-    Recall that you can use `<` and on the command line to provide a file as input to a program,
+    Recall that you can use `\<` and on the command line to provide a file as input to a program,
     if you want to test larger inputs. (This is described on p. 54 of Shotts.)
 
     If you're uncertain how your program should behave, check against the real `wc` (which prints
