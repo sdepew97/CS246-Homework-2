@@ -3,7 +3,10 @@ Assignment 2 reflections.
 Please answer the questions below:
 
 1. How did this assignment go for you? (Please write several sentences.)
-This assignment was more difficult that the first assignment, because I got very stuck on the final two questions. The first of the final two questions I figured out by doing some google research and sussing out the algorithmic approach to convert decimals to octal, I adopted this approach for hexadecimal numbers. Please note that I did not look at any code during this research. Rather, I looked at an unrelated, but similar problem (decimal to octal) and then used that thought process as a jumping off point, so to speak, to think through the decimal to hex. Eventually, however, I did go into the TA for the hex to octal conversion, because I just could not figure it out and had already spent countless hours not understanding it. Rachel helped me to think through the problem and then I was able to write the code and finish the problem well. 
+This assignment was more difficult that the first assignment, because I got very stuck on the final two questions. The first of the final two questions I figured out by doing some google research and sussing out the algorithmic approach to convert decimals to hexadecimal. Please note that I did not look at any code during this research. 
+
+Eventually, for the other problem however, I did go into the TA for the hex to octal conversion, because I just could not figure it out and had already spent countless hours not understanding it. Rachel helped me to think through the problem and then I was able to write the code and finish the problem well. 
+
 
 2. What was hard about this assignment?
 The final two questions. 
